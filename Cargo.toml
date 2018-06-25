@@ -1,0 +1,7 @@
+[package]
+name = "sock_nonce"
+version = "0.1.0"
+authors = ["Chris Cates <hello@chriscates.ca>"]
+
+[dependencies]
+rand = "0.5.2"
